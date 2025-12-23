@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/assets/logos/logo.svg" alt="Montimage Logo" width="280"/>
+  <img src="https://montimage.netlify.app/assets/logos/logo.svg" alt="Montimage Logo" width="280"/>
 </p>
 
 <h3 align="center">Network Monitoring & Cybersecurity Solutions</h3>
